@@ -8,6 +8,10 @@ import matplotlib.pyplot as plt
 from itertools import compress
 from scipy.signal import convolve2d
 
+__all__ = ('center_origin_gen','width_height_side_gen','angle_gen','opacity_gen','ellipse_random',
+            'parallelogram_random','data_random','data_random_smooth','gen_points','multi_onehot','gen_batch',
+            'gen_batch_smooth','gen_batch_berkeley','gen_batch_SBD')
+
 #### Ellipses/parallelograms dataset
 
 # Functions that generates randomly the parameters for the data generation

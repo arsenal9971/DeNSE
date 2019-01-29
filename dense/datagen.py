@@ -15,7 +15,12 @@ import scipy.io
 import matplotlib.image as img
 
 __all__ = ('fig2data','ellipse_gen', 'point_gen', 'parallelogram_gen', 'angles_toclasses', 'classesto_angles',
-            'rotate', '')
+            'rotate', 'Wavefrontset_ellipse_angles','Wavefrontset_ellipse_classes','Wavefrontset_point_angles',
+            'Wavefrontset_point_classes','all_classes_rand','all_angles_rand','Wavefrontset_parallelogram_angles',
+            'Wavefrontset_parallelogram_classes', 'Ellipse_class', 'ellipse_construct', 'Parallelogram_class',
+            'parallelogram_construct','Point_class','point_construct','Distribution_class','Distribution_product',
+            'sum_classes','Distribution_sum','Berkeley_sing_support','Berkeley_data_generation','point_to_class',
+            'Distribution_Berkeley','SBD_sing_support','SBD_data_generation','Distribution_SBD')
 
 # Function tha generates data from figure
 def fig2data(fig):

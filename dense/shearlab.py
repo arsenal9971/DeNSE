@@ -8,6 +8,9 @@ from numpy import ceil
 from numpy.fft import fft2, ifft2, fftshift, ifftshift
 import numpy as np
 
+__all__ = ('load_julia_with_Shearlab','load_image','imageplot','Shearlabsystem2D','getshearletsystem2D',
+            'sheardec2D','shearrec2D','sheardecadjoint2D','shearrecadjoint2D')
+
 # Python library for shearlab.jl
 
 # Function to load Shearlab
