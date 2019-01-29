@@ -4,11 +4,11 @@
 
 <div id="banner">
     <div class="inline-block">
-        <img src="doc/ims/berkeley_im.png" width="300" alt="Image" class="center">
+        <img src="doc/ims/berkeley_im.png" width="300">
     </div>
 
     <div class="inline-block">
-        <img src="doc/ims/berkeley_predict_densee_angles.png" width="300" alt="Image edges" class="center">
+        <img src="doc/ims/berkeley_predict_densee_angles.png" width="300">
     </div>
 </div>
 
