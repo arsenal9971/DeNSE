@@ -1,5 +1,5 @@
 # DeNSE
-![Architecture](doc/ims/Architecture.png= 500x250)
 
+<img src="doc/ims/Architecture.png" width="200">
 
 Deep Network Shearlet Edge Extractor
