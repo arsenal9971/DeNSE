@@ -11,7 +11,13 @@ By H. Andrade-Loarca, G. Kutyniok, O. Öktem, P. Petersen
 DeNSE is released under the MIT License (refer to the LICENSE file for details).
 
 ### Contents
-0. [Introduction](#instroduction)
+0. [Introduction](#introduction)
+0. [Citation](#citation)
+0. [Requirements](#requirements)
+0. [Installation](#installation)
+0. [Usage](#usage)
+0. [References](#references)
+0. [Contact](#contact)
 
 ### Introduction
 
@@ -33,3 +39,18 @@ If you find **SEAL** useful in your research, please consider to cite the follow
 	  booktitle={arXiv preprint: arXiv:1901.01388}, 
 	  year={2019}
 	}
+
+### Requirements
+
+### Installation
+
+### Usage
+
+### References
+
+### Contact
+
+[Hector Andrade-Loarca](https://arsenal9971.github.io/)
+
+  Questions can also be left as issues in the repository. We will be happy to answer them.
+
