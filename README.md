@@ -31,7 +31,7 @@ This method can be used for different applications in image processing and compu
 
 ### Citation
 
-If you find **SEAL** useful in your research, please consider to cite the following papers:
+If you find **DeNSE** useful in your research, please consider to cite the following papers:
 
 	@inproceedings{andrade2019dense, 
 	  title={Extraction of digital wavefront sets using applied harmonic analysis and deep neural networks}, 
