@@ -13,10 +13,8 @@ DeNSE is released under the MIT License (refer to the LICENSE file for details).
 ### Contents
 0. [Introduction](#introduction)
 0. [Citation](#citation)
-0. [Requirements](#requirements)
 0. [Installation](#installation)
 0. [Usage](#usage)
-0. [References](#references)
 0. [Contact](#contact)
 
 ### Introduction
