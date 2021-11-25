@@ -40,13 +40,19 @@ If you find **DeNSE** useful in your research, please consider to cite the follo
 	  year={2019}
 	}
 
-### Requirements
 
 ### Installation
 
+You can install all the dependencies by using the conda local enviroment file.  
+
+```
+conda env create -f environment.yaml
+conda activate dense
+```
+
 ### Usage
 
-### References
+The training and evaluation of the model for each of the used dataset is presented in the results folder. 
 
 ### Contact
 
